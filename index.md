@@ -2,47 +2,36 @@
 layout: default
 ---
 
-; Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 第 1 期
 
-; [Link to another page](./another-page.html).
+* * *
 
-; There should be whitespace between paragraphs.
-
-;There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# 长期主义者成长手册
-
-; This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## 第 1 期
-
-### 下载
+## 下载
 
 **百度网盘**
-
 链接：[https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712](https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712) <br>
 提取码：0712
 
-### 扩展信息
+## 扩展信息
 
-#### 1 读书篇
+### 1 读书篇
 
-**2020-09-14 Galaxy：人生，就是定投梦想的旅程……**
+#### 2020-09-14 Galaxy：人生，就是定投梦想的旅程……
 
 >  【微信号】boyang_0322
 
 *   [《BOX定投直通车……》](https://weibo.com/ttarticle/p/show?id=2309404408895383666772)
 
-2021-03-01 谢丽莉（Rico）：我在定投人生课堂的成长路径
-	【微信号】boyang_0322
+#### 2021-03-01 谢丽莉（Rico）：我在定投人生课堂的成长路径
+>  【微信号】boyang_0322
 
-2021-06-07 要策：拿着画笔的自己
-	【微信号】15531237151
+#### 2021-06-07 要策：拿着画笔的自己
+>  【微信号】15531237151
 
-2021-07-19 赵高明：跟笑来老师学习“一辈子”之后
-	《我是如何错过100万人民币的》，https://mp.weixin.qq.com/s/8OqggdQEL9DIrW4NwbDyjg
-	《读〈韭菜的自我修养〉》，https://mp.weixin.qq.com/s/Kbr8oPUhjPAc_kBg9TtJLQ
-	《发现一个无敌外挂》，https://mp.weixin.qq.com/s/F0dsKzTtN8pycvEHM2N0Tw
+#### 2021-07-19 赵高明：跟笑来老师学习“一辈子”之后
+*  [《我是如何错过100万人民币的》](https://mp.weixin.qq.com/s/8OqggdQEL9DIrW4NwbDyjg)
+*  [《读〈韭菜的自我修养〉》](https://mp.weixin.qq.com/s/Kbr8oPUhjPAc_kBg9TtJLQ)
+*  [《发现一个无敌外挂》](https://mp.weixin.qq.com/s/F0dsKzTtN8pycvEHM2N0Tw)
 
 2022-04-23 能能：养成阅读习惯，学习改变命运
 	【微信号】genghaonengneng
