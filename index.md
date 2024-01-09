@@ -36,14 +36,17 @@ layout: default
 *  [《发现一个无敌外挂》](https://mp.weixin.qq.com/s/F0dsKzTtN8pycvEHM2N0Tw)
 
 #### 2022-04-23 能能：养成阅读习惯，学习改变命运
+
 >  【微信号】genghaonengneng
-	《挑战一下，写四本书的读后感》，https://mp.weixin.qq.com/s/TVQqa2lz2O6MkaZyoxvqLQ
+
+*  [《挑战一下，写四本书的读后感》](https://mp.weixin.qq.com/s/TVQqa2lz2O6MkaZyoxvqLQ)
 
 #### 2022-05-07 苏夏：写作，是我人生中最重要的一课
 >  【微信号】misskisslock
 
 #### 2022-01-29 沈璜：片语禅心了异同：遴选模因，建构心智
->  【Mixin 号】1091685
+>  【Mixin ID】1091685
+
 *  μίμημα，[https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mi/mhma](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mi/mhma)
 *  ROGERS K. meme[EB/OL]. Chicago: Encyclopedia Britannica, 2021(2021-07-19)[2022-01-29]. [https://www.britannica.com/topic/meme](https://www.britannica.com/topic/meme).
 *  DON S. Distracted Boyfriend[EB/OL]. (2022-01-22)[2022-01-29]. [https://knowyourmeme.com/memes/distracted-boyfriend](https://knowyourmeme.com/memes/distracted-boyfriend).
@@ -61,8 +64,57 @@ layout: default
 *  李笑来. 定投改变命运[EB/OL]. (2021-05-12)[2022-01-29]. [https://ri.firesbox.com/#/cn/](https://ri.firesbox.com/#/cn/).
 *  李笑来. 推荐《原则：应对变化中的世界秩序》[EB/OL]. (2022-01-15)[2022-01-29]. [https://mp.weixin.qq.com/s/A0ASEfVmfFZtql73r86Sxg](https://mp.weixin.qq.com/s/A0ASEfVmfFZtql73r86Sxg).
 
+### 2 健身篇
 
+#### 2021-03-22 陈锦寰：六年的持续健身，让我变成了另外一个人
+>  【微信号】shihuanhuan0
 
+#### 2022-02-06 李波：三分钟热度的我，是如何成为有肌肉可炫的长期主义者的
+>  【微信号】LeeBo0216
+
+#### 2022-05-13 袁文：擅长运动却无法减重的我，是如何通过减脂营轻松瘦下来的？
+>  【微信号】dahougaoliang
+
+### 3 投资篇
+
+#### 2020-09-28 徐善飞：我的成长故事
+
+#### 2020-10-26 陈雄（陈小熊）：改变世界的小熊
+>  【微信号】huashichenxiong
+
+*  《微习惯改变命运：给自己一个机会！》，https://mp.weixin.qq.com/s/rguHsy_Gk8PJbumTBvPBfQ
+*  《迷时师渡，悟了自渡（2019全国卷III下水作文）》，https://mp.weixin.qq.com/s/Z2itc6UbtnDOsQitgmV9Iw
+*  《必看！做视频号的人 ，秦刚和老薛社群哪个值得进？深度好文！！》，https://mp.weixin.qq.com/s/6vqjIIIotpxBzWE4dUv3ug
+*  《我们很李笑来！》，https://mp.weixin.qq.com/s/AORX4k5SzQiu_jTQQ34ZFA
+*  《写作课第二期开始报名！》，https://mp.weixin.qq.com/s/ikRQtw96t-07IvwTGzCLhg
+*  《陈伟：一个上过央视的养鸭人》，https://mp.weixin.qq.com/s/1HKWWeVv2wCx3p6LyLb64A
+
+#### 2020-12-21 强柯：我是怎么误打误撞进入区块链世界的？
+
+#### 2021-05-03 曾肖静：我的投资学习踩坑之路
+>  【微信号】15900008955
+
+#### 2021-05-17 吕湛新：在痛苦迷茫中走向重生
+>  【微信号】abc12310092
+
+#### 2021-05-31 常旭：我是如何从零开始做外贸到年销售三千万
+>  【微信号】Cucu603
+
+#### 2021-07-26 王超：笑来老师如何点亮我的投资路？
+>  【微信号】chaoplus688
+
+#### 2022-01-22 姜华：我是如何做到不惧价高、不惧腰斩、不惧恐慌，一直定投的？
+>  【微信号】bloomtody
+
+*  《我们一起过个韭菜节罢！》，https://mp.weixin.qq.com/s/pnucpu6co9xvPka4unD7oA
+
+#### 2022-02-19 Jenny：从0到1，从1到258的销冠之路
+>  【微信号】Jennyboxer
+
+*  《Undercover Billionaire，2019》，https://www.discovery.com/shows/undercover-billionaire
+
+#### 2022-06-18 何俊：在定投课堂，我的场外赚钱能力提升了10倍
+>  【微信号】SupermanA666
 
 > This is a blockquote following a header.
 >
