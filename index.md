@@ -118,108 +118,101 @@ layout: default
 #### 2022-06-18 何俊：在定投课堂，我的场外赚钱能力提升了10倍
 >  【微信号】SupermanA666
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 4 帮朋友篇
 
-### Header 3
+#### 2021-06-14 末末熊：在定投人生课堂，我种下了一颗叫“希望”的种子
+>  【微信号】box-momo
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### 2022-01-08 刘琦：如何在定投人生课堂里活成一只“蜘蛛侠”
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+>  【微信号】liuqitongxue
 
-#### Header 4
+*  [《Success That Lasts》（《可持续的成功》）](https://hbr.org/2004/02/success-that-lasts)
+*  [《〈Success That Lasts〉（〈可持续的成功〉）中英对照》](https://kb807z2sc3.feishu.cn/docs/doccncsGKjpjIWQluHQnBoHzxDc#2GXOP0)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+#### 2022-02-12 罗恬：用分享吸引相互成就的关系
+>  【微信号】tianluo6767
 
-##### Header 5
+#### 2022-03-05 王同佩：学渣的自救之路
+>  【微信号】cn5036518
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### 2022-03-12 伊娜：持续践行，让我的年龄成为岁月的馈赠
+>  【微信号】yina6991
 
-###### Header 6
+#### 2022-04-02 cat王露萩：摘下玻璃假面，用真诚拼命照亮未来
+>  【微信号】catynchyna
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### 2022-04-30 陈启欢：让我摆脱焦虑、心存希望的三大定投锦囊
+>  【微信号】a23071832
 
-### There's a horizontal rule below this.
+### 5 陪家人篇
 
-* * *
+#### 2021-06-28 卞卡：结缘笑来老师，穿越人生U型曲线
+>  【微信号】bianka727
 
-### Here is an unordered list:
+#### 2022-06-11 李美意、刘品含：陪伴孩子成长，痛并快乐着
+>  【微信号】13873168485
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### 6 蜕变成长篇
 
-### And an ordered list:
+#### 2020-09-21 倪萧桓：从原地踏步到蜕变重生
+>  【微信号】503547443
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### 2020-10-12 Susan：人生由我，一个普通中年少女的升级之路
+>  【微信号】chenlaoe2
 
-### And a nested list:
+#### 2020-10-19 王莉莉：重启，幸运降临
+>  【微信号】L767013839
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+#### 2020-11-09 张敏：感恩遇见，成就自己
+>  【微信号】zm961013
 
-### Small image
+#### 2020-11-23 时汝佳：点滴积累，突破自我
+>  【微信号】rujia81
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+#### 2021-02-15 潘春兰：从区块链小白到坚定的长期主义者的历练之旅
+>  【微信号】pclzgpdy
 
-### Large image
+#### 2021-04-05 陈雷雷：14年的真学渣到4年伪学霸的蜕变历程
+>  【微信号】aierdongboxer
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#### 2021-04-12 张建龙：不抱怨，赢未来
+>  【微信号】zbox99
 
+#### 2021-04-19 诺诺：成长是一种责任
+>  【微信号】MF525098503
 
-### Definition lists can be used with HTML syntax.
+#### 2021-08-30 雷明：别再固化自己的人生
+>  【微信号】harrypotter1103
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+*  [张九南的从艺经历 // 2021-08-27 德云斗笑社 第2季 第2期(上)：德云男孩洗浴中心再就业？](https://v.qq.com/x/cover/mzc002005cro784/a0040m40x7b.html)[（00:16:09 ~ 00:16:20）](https://www.youtube.com/watch?v=o7BekNthtco)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+#### 2021-09-06 韩颖：通过学习考证，获得人生第一桶金
+>  【微信号】18701529296
 
-```
-The final element.
-```
+#### 2022-01-15 王昊宇：最胆小的勇者是怎样炼成的？
+>  【微信号】wikiHaooo
+
+#### 2022-02-26 戴国俊：学习填充自我，践行雕刻人生
+>  【微信号】daiguojun729
+
+#### 2022-03-19 袁帅：何以解忧？唯有定投
+>  【微信号】ys66849411
+
+#### 2022-04-09 潘中华：我的770天蜕变之旅
+>  【微信号】PZH-SCI
+
+*  李笑来. 如何自助: 助人即助己[EB/OL]. (2020-02-01)[2022-04-09]. [https://mp.weixin.qq.com/s/i4I8OSY08yTlZsG3WnMjhg](https://mp.weixin.qq.com/s/i4I8OSY08yTlZsG3WnMjhg).
+*  李笑来. 定投改变命运[M/OL]. 第3版. San Francisco: GitHub, 2019[2022-04-09]. [https://ri.firesbox.com/#/cn/](https://ri.firesbox.com/#/cn/).
+
+#### 2022-05-21 董瑞雪：我在定投人生课堂的飞速成长之路
+>  【微信号】Array3056
+
+#### 2022-05-28 木林：从工厂素人走向书法IP，构建个人品牌
+>  【微信号】a8476dfg
+
+#### 2022-06-04 奕可Echo：不确定时代破局成长的底层密码
+>  【微信号】yike858
+
+#### 2022-07-02 徐挺：持续努力的三个绝招：观念、决策、方法
+>  【微信号】xuting_man
