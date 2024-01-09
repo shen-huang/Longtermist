@@ -45,6 +45,7 @@ layout: default
 >  【微信号】misskisslock
 
 #### 2022-01-29 沈璜：片语禅心了异同：遴选模因，建构心智
+
 >  【Mixin ID】1091685
 
 *  μίμημα，[https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mi/mhma](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=mi/mhma)
@@ -80,14 +81,15 @@ layout: default
 #### 2020-09-28 徐善飞：我的成长故事
 
 #### 2020-10-26 陈雄（陈小熊）：改变世界的小熊
+
 >  【微信号】huashichenxiong
 
-*  《微习惯改变命运：给自己一个机会！》，https://mp.weixin.qq.com/s/rguHsy_Gk8PJbumTBvPBfQ
-*  《迷时师渡，悟了自渡（2019全国卷III下水作文）》，https://mp.weixin.qq.com/s/Z2itc6UbtnDOsQitgmV9Iw
-*  《必看！做视频号的人 ，秦刚和老薛社群哪个值得进？深度好文！！》，https://mp.weixin.qq.com/s/6vqjIIIotpxBzWE4dUv3ug
-*  《我们很李笑来！》，https://mp.weixin.qq.com/s/AORX4k5SzQiu_jTQQ34ZFA
-*  《写作课第二期开始报名！》，https://mp.weixin.qq.com/s/ikRQtw96t-07IvwTGzCLhg
-*  《陈伟：一个上过央视的养鸭人》，https://mp.weixin.qq.com/s/1HKWWeVv2wCx3p6LyLb64A
+*  [《微习惯改变命运：给自己一个机会！》](https://mp.weixin.qq.com/s/rguHsy_Gk8PJbumTBvPBfQ)
+*  [《迷时师渡，悟了自渡（2019全国卷III下水作文）》](https://mp.weixin.qq.com/s/Z2itc6UbtnDOsQitgmV9Iw)
+*  [《必看！做视频号的人 ，秦刚和老薛社群哪个值得进？深度好文！！》](https://mp.weixin.qq.com/s/6vqjIIIotpxBzWE4dUv3ug)
+*  [《我们很李笑来！》](https://mp.weixin.qq.com/s/AORX4k5SzQiu_jTQQ34ZFA)
+*  [《写作课第二期开始报名！》](https://mp.weixin.qq.com/s/ikRQtw96t-07IvwTGzCLhg)
+*  [《陈伟：一个上过央视的养鸭人》](https://mp.weixin.qq.com/s/1HKWWeVv2wCx3p6LyLb64A)
 
 #### 2020-12-21 强柯：我是怎么误打误撞进入区块链世界的？
 
@@ -106,12 +108,12 @@ layout: default
 #### 2022-01-22 姜华：我是如何做到不惧价高、不惧腰斩、不惧恐慌，一直定投的？
 >  【微信号】bloomtody
 
-*  《我们一起过个韭菜节罢！》，https://mp.weixin.qq.com/s/pnucpu6co9xvPka4unD7oA
+*  [《我们一起过个韭菜节罢！》](https://mp.weixin.qq.com/s/pnucpu6co9xvPka4unD7oA)
 
 #### 2022-02-19 Jenny：从0到1，从1到258的销冠之路
 >  【微信号】Jennyboxer
 
-*  《Undercover Billionaire，2019》，https://www.discovery.com/shows/undercover-billionaire
+*  [《Undercover Billionaire》（2019）](https://www.discovery.com/shows/undercover-billionaire)
 
 #### 2022-06-18 何俊：在定投课堂，我的场外赚钱能力提升了10倍
 >  【微信号】SupermanA666
