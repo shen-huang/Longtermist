@@ -1,0 +1,10 @@
+title: 长期主义者成长手册
+description: 定投人生践行群内刊
+show_downloads: false
+# google_analytics:
+theme: jekyll-theme-cayman
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
