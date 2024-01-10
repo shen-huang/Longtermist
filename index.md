@@ -14,7 +14,7 @@ layout: default
 链接：[https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712](https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712) <br>
 提取码：0712
 
-## 扩展信息
+## 参考资料
 
 ### 1 读书篇
 
