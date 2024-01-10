@@ -23,7 +23,6 @@ layout: default
 >  【微信号】boyang_0322
 
 <!-- *   [《BOX定投直通车……》](https://weibo.com/ttarticle/p/show?id=2309404408895383666772) -->
-*   [《定投直通车……》](https://weibo.com/ttarticle/p/show?id=2309404408895383666772)
 
 #### 2021-03-01 谢丽莉（Rico）：我在定投人生课堂的成长路径
 >  【微信号】boyang_0322
