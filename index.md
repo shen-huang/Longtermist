@@ -4,17 +4,17 @@ layout: default
 
  <!-- # 长期主义者成长手册 -->
 
-# 第 1 期
+# **第 1 期**
 
 * * *
 
-## 下载
+## **下载**
 
 **百度网盘** <br>
 链接：[https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712](https://pan.baidu.com/s/1WB_W741pq__5Vk6PCiPiFw?pwd=0712) <br>
 提取码：0712
 
-## 参考资料
+## **参考资料与联系方式**
 
 ### 1 读书篇
 
