@@ -10,7 +10,7 @@ layout: default
 
 ## **在线阅读**
 
-https://tinbe.xetslk.com/s/3lg1QP
+[https://tinbe.xetslk.com/s/3lg1QP](https://appqme5icso8118.h5.xiaoeknow.com/p/course/ebook/e_65b07032e4b0bb112444135b)
 
 ## **下载**
 
